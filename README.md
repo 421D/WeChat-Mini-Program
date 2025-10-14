@@ -11,9 +11,9 @@ Each project features a unique theme and technical focus — from media content 
 
 | No. | Project | Description | Key Technologies |
 |-----|----------|--------------|------------------|
-| 1 | [**PM2.5 Studio Mini Program**](./WeChat-Mini-Program/PM25Studio_WeChat_MiniProgram) | A digital media & creative studio platform integrating video, photography, and interactive content. | WXML, WXSS, JS, JSON, WeChat API |
+| 1 | [**PM2.5 Studio Mini Program**](./PM25Studio_WeChat_MiniProgram) | A digital media & creative studio platform integrating video, photography, and interactive content. | WXML, WXSS, JS, JSON, WeChat API |
 | 2 | [**MediaHub**](./MediaHub_WeChat_MiniProgram) | A lightweight multimedia app for articles, movies, and system utilities using WeChat APIs. | Native WeChat Mini Program Framework |
-| 3 | [**Community Convenience Service System**](./WeChat-Mini-Program/Community_WeChat_MiniProgram) | A community trading & property management system using cloud functions and databases. | WeChat Cloud Development (Serverless), Tencent Cloud DB |
+| 3 | [**Community Convenience Service System**](./Community_WeChat_MiniProgram) | A community trading & property management system using cloud functions and databases. | WeChat Cloud Development (Serverless), Tencent Cloud DB |
 
 
 
